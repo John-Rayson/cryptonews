@@ -3,14 +3,13 @@
 
 This is a paragraph in markdown.
 
-0This *theme* **featires**:
+This *theme* **features**:
 
 ## Features
-- Bulelt 1
-- buller 2
-- bullet 3
+- Bullet 1
+- Bullet 2
+- Bullet 3
 
-1. numbnre1
-1. nrerk m2
-1. nfakmm 3
-2.
+1. number 1
+1. number 2
+1. number 3
