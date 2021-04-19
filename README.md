@@ -6,10 +6,10 @@ This is a paragraph in markdown.
 This *theme* **features**:
 
 ## Features
-- Bullet 1
-- Bullet 2
-- Bullet 3
 
-1. number 1
-1. number 2
-1. number 3
+1. Bags
+1. Cloths
+1. Food
+1. Computers
+1. Books
+1. Pencils
